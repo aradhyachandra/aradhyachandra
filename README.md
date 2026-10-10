@@ -11,7 +11,7 @@ I'm building toward analytics consulting: turning messy data into answers that a
 
 | Project | What it does | Stack | Status |
 |---|---|---|---|
-| **AI Equity Research Platform** | Answers questions about listed companies (starting with TCS). The LLM interprets, Python computes the ratios and DCF, and every answer cites the filing it came from. | Python · tool-calling agent (plain Python, local LLM via Ollama) · ChromaDB · SQLite · deterministic DCF/ratio engine · Streamlit | 🚧 v1 in progress |
+| **AI Equity Research Platform** | Answers questions about listed companies (starting with TCS). The LLM interprets, Python computes the ratios and DCF, and every answer cites the filing it came from. | Python · tool-calling agent (plain Python, local LLM via Ollama) · ChromaDB · SQLite · deterministic DCF/ratio engine · Streamlit | 🚧 v1 in progress (repo public soon) |
 | **[Legal RAG Chatbot](https://github.com/aradhyachandra/legal-chatbot)** | Retrieval-augmented Q&A over Indian legal documents. Built during my internship at IIT Kanpur's Computer Centre: grounded answers with page citations, and refuses out-of-scope questions | Python · LangChain · ChromaDB · Ollama (llama3.2) · Streamlit | ✅ Done |
 | **Customer Churn & Retention Analytics** | Finding who churns, why, and what retention is worth | Python · pandas · scikit-learn · SQL | 🗓️ Next |
 
