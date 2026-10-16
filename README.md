@@ -22,4 +22,4 @@ I'm building toward analytics consulting: turning messy data into answers that a
 - **Intern, Computer Centre, IIT Kanpur** (June 2026): built a fully local legal RAG chatbot over Indian legal PDFs. Answers are grounded only in retrieved clauses, with source and page citations. A 0.65 distance threshold makes it refuse out-of-scope questions instead of guessing. Stack: LangChain · nomic-embed-text · ChromaDB · llama3.2 (Ollama) · Streamlit.
 
 #### 📫 Reach me
-[LinkedIn](https://www.linkedin.com/in/aradhya-chandra-41390a30b)
+[LinkedIn](https://www.linkedin.com/in/aradhyachandra/)
